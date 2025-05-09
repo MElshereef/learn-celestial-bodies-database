@@ -151,3 +151,5 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 git remote add origin https://github.com/MElshereef/fcc-postgress-universe.git
 git branch -M main
 git push -u origin main
+git init
+git add .
